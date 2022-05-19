@@ -383,6 +383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09c564c9699e2e146abbfbc64b782d73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MyCube: {fileID: 654606005}
 --- !u!4 &1106310572
 Transform:
   m_ObjectHideFlags: 0
